@@ -1,0 +1,164 @@
+.pai{
+	width: 100%;
+	height: 100vh;
+	background-color: white;
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+}
+
+
+
+.amarelo{
+	width: 15%;
+	height: 20vh;
+	background-color:  darkgreen;
+
+}
+
+.ft1{
+
+	width: 75px;
+	height: 95px;
+
+	margin-left: 50px;
+	margin-top: 15px;
+
+}
+
+.pesquisar{
+	
+	margin-left: 130vh;
+	margin-top: 30px
+
+}
+
+.ft2{
+
+	width: 390px;
+	height: 95px;
+
+	margin-left: 75vh;
+	margin-top: 10px;
+
+
+}
+
+.ft3{
+	margin-left: 5vh;
+	margin-top:10px;
+	width: 555px;
+	height: 350px;
+}
+
+.ft4{
+	
+	margin-top:15px;
+
+	width: 280px;
+
+	height: 500px;
+
+}
+.ft5{
+	
+	margin-top:15px;
+
+	width: 280px;
+
+	height: 500px;
+
+}
+.ft6{
+	
+	margin-top:15px;
+
+	width: 280px;
+
+	height: 500px;
+
+}
+.ft7{
+	
+	margin-top:15px;
+
+	width: 280px;
+
+	height: 500px;
+
+}
+
+
+
+.vermelhoI{
+	width: 85%;
+	height: 20vh;
+	background-color: darkgreen;
+}
+
+
+
+.laranja{
+	width: 100%;
+	height: 20vh;
+	background-color: lightgray;
+}
+
+
+
+.vermelhoII{
+	width: 70%;
+	height: 60vh;
+	background-color: white;
+}
+
+
+
+.azul{
+	width: 30%;
+	height: 60vh;
+	background-color: white;
+
+	display: flex;
+    flex-direction: column;
+}
+
+
+
+.verde{
+	width: 100%;
+	height: 20vh;
+	background-color: darkgreen;
+}
+
+input::placeholder{
+
+	color: green;
+
+}
+
+p{
+	font-family: sans-serif;
+
+	color: blue;
+
+	font-size: 30px;
+   
+
+   margin-left: 5vh;
+
+}
+
+@media (max-width:760px){
+	.um, .dois, .tres{
+
+	width: 100%;
+	height: 10vh;
+
+
+	}
+
+}
+
